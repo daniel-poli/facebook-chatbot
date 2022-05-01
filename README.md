@@ -34,3 +34,4 @@ An example of the "Send to Messenger" plugin and "Message Us" plugin are located
 ## License
 
 See the LICENSE file in the root directory of this source tree. Feel free to use and modify the code.
+
